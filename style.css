@@ -93,3 +93,7 @@ span{
     padding-bottom: 40px;
     
 }
+p,
+span{
+    width: 100%;
+}
